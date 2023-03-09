@@ -1,0 +1,12 @@
+{
+  "name": "rt3",
+  "type": "package",
+  "blockId": "kCUPmrOdGpkmu68Mb0mEz",
+  "source": {
+    "https": "https://github.com/Digambaran/rt3",
+    "ssh": "git@github.com:Digambaran/rt3.git"
+  },
+  "supportedAppblockVersions": [
+    "2.0.0"
+  ]
+}
